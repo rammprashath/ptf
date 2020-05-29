@@ -1,0 +1,91 @@
+table {
+    border: 0px;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+h1 {
+    font-weight: 30;
+}
+img {
+    height: 210px;
+    text-align: center;
+    width: 85%;
+}
+p {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 0px;
+}
+th {
+    border: none;
+    font-size: 23px;
+    padding-top: 0px;
+}
+.intro {
+    text-align: right;
+}
+.sec-1 {
+    background-color: rgba(231, 223, 223, 0.336);
+}
+.sec-2 {
+    background-color: rgba(235, 216, 180, 0.575);
+}
+.sec-3 {
+    background-color: rgba(231, 223, 223, 0.527);
+}
+.sec-3 td {
+    background-color: rgba(163, 228, 163, 0.575);
+}
+.sec-3 td:nth-child(2) {
+    background-color: rgba(44, 37, 37, 0.253)
+}
+.intro ul {
+    list-style: none;
+    margin-top: 0px;
+    margin-right: 30px;
+}
+.intro li {
+    font-size: 19px;
+}
+.content td {
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color: rgba(44, 37, 37, 0.103);
+}
+.cr {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 5px;
+}
+.sec-1 img {
+    height: 160px;
+    width: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+    float: left;
+    margin-left: 40px;
+    margin-top: 38px;
+}
+.sec-3 td {
+    border: none;
+}
+a {
+    text-decoration: none;
+    float: right;
+    border: 2px solid blue;
+    padding: 4px 4px;
+    margin-right: 30px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.808);
+}
+.p1 {
+    text-align: center;
+    font-size: 23px;
+}
+.details {
+    text-align: left;
+    font-size: 19px;
+}
